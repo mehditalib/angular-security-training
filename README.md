@@ -1,7 +1,3 @@
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{mehditalib}/{angular-security-training}/badge)](https://api.securityscorecards.dev/projects/github.com/{mehditalib}/{angular-security-training})
-
-
-
 # Worldline's Angular Security training material
 
 ## Train with us
